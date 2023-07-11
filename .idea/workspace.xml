@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71c9f225-b457-41fd-aacb-ef948040bb7a" name="Changes" comment="" />
+    <list default="true" id="554b1a83-abd6-43e6-9b28-cd8d8d201135" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,14 +15,10 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2SRStJVacbbwzsKNFZGJJE9dhp5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2SRUxyzQgGziidzlZa3j8Thorta" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +28,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,12 +47,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="71c9f225-b457-41fd-aacb-ef948040bb7a" name="Changes" comment="" />
-      <created>1689108116038</created>
+      <changelist id="554b1a83-abd6-43e6-9b28-cd8d8d201135" name="Changes" comment="" />
+      <created>1689109139883</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1689108116038</updated>
-      <workItem from="1689108117068" duration="1022000" />
+      <updated>1689109139883</updated>
+      <workItem from="1689109140883" duration="345000" />
     </task>
     <servers />
   </component>
