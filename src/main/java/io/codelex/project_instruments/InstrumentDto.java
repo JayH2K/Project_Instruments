@@ -2,13 +2,13 @@ package io.codelex.project_instruments;
 
 import java.math.BigDecimal;
 
-public class Instrument {
+public class InstrumentDto {
 
     private String name;
 
     private BigDecimal price;
 
-    public Instrument(String name, BigDecimal price) {
+    public InstrumentDto(String name, BigDecimal price) {
         this.name = name;
         this.price = price;
     }
