@@ -1,6 +1,7 @@
 package io.codelex.project_instruments;
 
 import java.math.BigDecimal;
+import java.time.LocalDateTime;
 
 public class Instrument {
 
@@ -8,9 +9,16 @@ public class Instrument {
 
     private BigDecimal price;
 
-    public Instrument(String name, BigDecimal price) {
+    private final LocalDateTime dateCreated;
+
+    public Instrument(String name, BigDecimal price, LocalDateTime dateCreated) {
         this.name = name;
         this.price = price;
+        this.dateCreated = dateCreated;
+    }
+
+    public LocalDateTime getDateCreated() {
+        return dateCreated;
     }
 
     public String getName() {
