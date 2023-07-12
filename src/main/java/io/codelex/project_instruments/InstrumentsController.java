@@ -7,9 +7,9 @@ import java.util.List;
 
 @RequestMapping("/instrument")
 @RestController
-public class ProjectInstrumentsController {
+public class InstrumentsController {
 
-    List<Instrument> instrumentList = new ArrayList<>();
+    private final List<Instrument> instrumentList = new ArrayList<>();
 
     @PostMapping("/add")
     public void addInstrument(@RequestBody Instrument instrument) {
